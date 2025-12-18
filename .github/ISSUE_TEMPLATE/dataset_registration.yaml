@@ -1,14 +1,14 @@
 name: NOS Dataset Registration
-description: Provide Dataset Title and Description. Use this issue to log datasets you intend to mobilize to Darwin Core. 
+description: Provide Dataset Title and Description. Use this issue to log datasets you intend to track. 
 title: "[dataset]: "
 labels: ["dataset","inventory"]
 assignees:
-  - 7mathewbiddle
+  - mathewbiddle
 body:
   - type: markdown
     attributes:
       value: |
-        Use this form to provide a title, description and any (anticipated) blockers for the dataset you will be aligning to Darwin Core.
+        Use this form to provide a title, description and any (anticipated) blockers for tracking these data.
   - type: input
     id: primary_contact
     attributes:
