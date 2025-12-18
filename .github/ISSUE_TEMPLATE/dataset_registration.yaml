@@ -42,9 +42,9 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: NOS Office
+    id: nos_office
     attributes:
-      label: Office
+      label: NOS Office
       description: What NOS Office are these data affiliated with?
       options:
         - NGS
